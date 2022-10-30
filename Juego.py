@@ -12,7 +12,7 @@ a2 = input()
 if a2 == "nadar":
    print("Fuiste atacado por una tribu, haz muerto. Fin del juego! \n")
    sys.exit()
-else: print("Te quedaste a esperar!, vez un bote con alguien que se acerca, que haces? \n (Llamarlo) o (esconderce)?")
+else: print("Te quedaste a esperar!, vez un bote con alguien que se acerca, que haces? \n (Llamarlo) o (esconderse)?")
 a3 = input()
 if a3 == "llamarlo":
     print("Haz llamado a un miembro de la tribu, te han atacado y has muerto. Fin del juego! \n")
